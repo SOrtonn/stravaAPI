@@ -1,2 +1,2 @@
 # stravaAPI
-Practive with the strava API
+Practice with the strava API
